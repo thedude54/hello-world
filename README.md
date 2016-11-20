@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+  Hi...
+    My name is Emrah. I am studying computer engineering. I want to be good developer. I want to improve myself in JAVA. I am learning new thinks everytime.I live in İstanbul/Tuzla.
